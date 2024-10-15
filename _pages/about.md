@@ -11,7 +11,7 @@ I'm a fourth year undergraduate student from [Institute for Interdisciplinary In
 
 I am very fortunate to be advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~ztu/) of Department of Cognitive Science, University of California, San Diego. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
-You can find my CV here: [Chenru Wen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+You can find my CV here: [Chenru Wen's Curriculum Vitae](../assets/Resume.pdf).
 
 [Email](wencr21@mails.tsinghua.edu.cn) / [Github](https://github.com/wcr21) 
 
