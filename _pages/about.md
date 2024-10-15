@@ -13,7 +13,7 @@ I am very fortunate to be advised by [Prof. Zhuowen Tu](https://pages.ucsd.edu/~
 
 You can find my CV here: [Chenru Wen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](wencr21@mails.tsinghua.edu.cn) / [Github](https://github.com/wcr21) /
+[Email](wencr21@mails.tsinghua.edu.cn) / [Github](https://github.com/wcr21) 
 
 
 
